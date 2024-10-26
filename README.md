@@ -35,4 +35,4 @@
   </br>
   </br> Responsive </p>
 
-![](/public/gif/screen-1.gif)# Covid_map
+![Covid Map](https://github.com/user-attachments/assets/8cc38b2a-5772-44a8-8d60-626874d8043d)
